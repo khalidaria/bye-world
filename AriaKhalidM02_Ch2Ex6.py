@@ -18,8 +18,8 @@ totalTaxAmount = stateTaxAmount + countyTaxAmount
 totalSalesAmount = purchaseInputAmount + totalTaxAmount
 
 #Output
-print('Purchase Amount: $', purchaseInputAmount, sep='')
-print('State Tax: $', stateTaxAmount, sep='')
-print('County Tax: $', countyTaxAmount, sep='')
+#I deleted some shit
 print('Total Sales Tax: $', totalTaxAmount, sep='')
 print('Total Sales Amount: $', totalSalesAmount, sep='')
+
+#I added some new shit
